@@ -9,11 +9,12 @@
 .elementor-62 .elementor-element.elementor-element-5a6a9faa:not(.elementor-motion-effects-element-type-background),
 .elementor-62 .elementor-element.elementor-element-5a6a9faa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
    
-    background-image: url("./../../../../BG.webp");
+    background-image: url("./../../../../COOK/COOK/unnamed\ \(1\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    margin-bottom: 20vh;
+    background-position: 50% 10%;
+    
 }
 
 .elementor-62 .elementor-element.elementor-element-5a6a9faa>.elementor-background-overlay {
