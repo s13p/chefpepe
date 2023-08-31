@@ -67,6 +67,7 @@
 		*,
 		html {
 			font-family: 'Gloria Hallelujah', cursive !important;
+			
 		}
 	</style>
 	<style id='global-styles-inline-css'>
@@ -112,6 +113,7 @@
 			--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
 			--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
 		}
+		
 
 		:where(.is-layout-flex) {
 			gap: 0.5em;
@@ -163,6 +165,9 @@
 
 		body .is-layout-constrained>.alignwide {
 			max-width: var(--wp--style--global--wide-size);
+		}
+		body {
+			overflow-x: hidden;
 		}
 
 		body .is-layout-flex {
@@ -2554,7 +2559,7 @@
 												font-size: 59px
 											}
 										</style>
-										<h4 class="elementor-heading-title elementor-size-default">$COOK
+										<h4 style="color: red;"  class="elementor-heading-title elementor-size-default">$COOK
 										</h4>
 									</div>
 								</div>
@@ -3021,7 +3026,7 @@
 						</div>
 					</div>
 					<div >
-						<img  src="./PNGPIG-04.png" style="position: relative; padding-bottom: 50vh; height: 100vh; width:100% ;"
+						<img  src="./PNGPIG-04.png" style="position: absolute; height: 100vh; width:auto; margin-top: -30vh;"
 							class="" alt="" />
 					</div>
 				</section>
