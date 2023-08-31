@@ -9,7 +9,7 @@
 .elementor-62 .elementor-element.elementor-element-5a6a9faa:not(.elementor-motion-effects-element-type-background),
 .elementor-62 .elementor-element.elementor-element-5a6a9faa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
    
-    background-image: url("./../../../../COOK/COOK/unnamed\ \(1\).jpg");
+    background-image: url("./../../../../COOK/COOK/x1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -1138,7 +1138,7 @@ body.rtl .elementor-62 .elementor-element.elementor-element-3acacc45 {
     }
 
     .elementor-62 .elementor-element.elementor-element-b5f024 img {
-        width: 40%;
+        min-width: 90vw !important;
     }
 
     .elementor-62 .elementor-element.elementor-element-b5f024>.elementor-widget-container {
@@ -1444,7 +1444,7 @@ body.rtl .elementor-62 .elementor-element.elementor-element-3acacc45 {
     }
 
     .elementor-62 .elementor-element.elementor-element-b5f024 img {
-        width: 60%;
+        width: 60vw;
     }
 
     .elementor-62 .elementor-element.elementor-element-2b527ba9>.elementor-background-overlay {
